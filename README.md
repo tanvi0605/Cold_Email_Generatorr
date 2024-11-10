@@ -1,4 +1,4 @@
-📧 *Cold Mail Generator*
+📧 *Personalized Outreach Email Creation Platform*
 
 This repository features a Cold Email Generator Tool that uses Groq, LangChain, and Streamlit to help service companies automate and personalize outreach to prospective clients. Designed for business development teams, this tool makes reaching out to clients more efficient and impactful.
 
