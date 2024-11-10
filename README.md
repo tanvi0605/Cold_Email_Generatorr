@@ -3,10 +3,13 @@
 This repository features a Cold Email Generator Tool that uses Groq, LangChain, and Streamlit to help service companies automate and personalize outreach to prospective clients. Designed for business development teams, this tool makes reaching out to clients more efficient and impactful.
 
 
+
 Key Features:
 * Job Listings Extraction: Just input the URL of a company’s careers page, and the tool automatically retrieves job listings.
 * Personalized Cold Email Generation: Generates custom cold emails, tailored to each job listing, including links to relevant portfolios from a vector database.
 * Streamlined Business Outreach: With tailored messaging, it helps companies demonstrate their expertise in providing dedicated engineering talent quickly and effectively.
+
+
 
   
 Example Use Case:
