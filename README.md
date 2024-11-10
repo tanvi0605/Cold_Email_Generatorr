@@ -13,6 +13,7 @@ Key Features:
 
   
 Example Use Case:
+
 Consider a scenario where Nike is hiring a Principal Software Engineer. Our tool enables a business development executive (e.g., Mohan from Atliq) to reach out with a targeted email, offering Nike a pre-vetted software engineer who meets their needs—saving Nike time and resources in recruitment and onboarding.
 
 ![image](https://github.com/user-attachments/assets/d1e167cd-ec1e-4662-ac68-f575061d9a89)
