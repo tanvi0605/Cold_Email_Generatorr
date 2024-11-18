@@ -1,6 +1,6 @@
-# 📧 Personalized Outreach Email Creation Platform  
+# 📈 Personalized Outreach Email Creation Platform  
 
-This repository introduces a **Cold Email Generator Tool** that simplifies and personalizes outreach for service companies. Built with **Groq**, **LangChain**, and **Streamlit**, this platform empowers business development teams to efficiently connect with potential clients, saving time and creating impactful interactions.  
+This repository introduces a **Personalized Outreach Email Creation Platform** that simplifies and personalizes outreach for service companies. Built with **Groq**, **LangChain**, and **Streamlit**, this platform empowers business development teams to efficiently connect with potential clients, saving time and creating impactful interactions.  
 
 ---
 
