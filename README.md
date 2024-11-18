@@ -55,7 +55,6 @@ Revolutionize your approach to outreach with this powerful tool. Automate, perso
 
 ![image](https://github.com/user-attachments/assets/d436a5f5-808e-4568-9a8c-0ca719d2b2b0)
 
-*ARCHITECTURE DIAGRAM*
-![Blank diagram](https://github.com/user-attachments/assets/f4c84457-4b53-4cf0-a286-a4926a394831)
+
 
 
